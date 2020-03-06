@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8ac88ba-62f6-4770-a7ee-a403d10055d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UML/P8_Class_Diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/P8_Database.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/P8_Sequence_Diagram_createTask.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/P8_Sequence_Diagram_createUser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/P8_Use_Case_Admin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML/P8_Use_Case_User.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Class Diagram Product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Class Diagram User.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/MPD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Sequence Diagram Create User.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Sequence Diagram JWT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Sequence Diagram Many Products.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Sequence Diagram One Product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diagramme/Sequence Diagram One User.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projet 8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projet 8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +75,18 @@
       <path value="$PROJECT_DIR$/todoList/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/todoList/vendor/psr/log" />
       <path value="$PROJECT_DIR$/todoList/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/todoList/vendor/fig/link-util" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YROnUy3QC5kp7knzgCoTYiUhPY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -94,6 +117,8 @@
       <workItem from="1582903959433" duration="79000" />
       <workItem from="1583492636486" duration="378000" />
       <workItem from="1583494403960" duration="234000" />
+      <workItem from="1583494818010" duration="218000" />
+      <workItem from="1583498022530" duration="107000" />
     </task>
     <servers />
   </component>
@@ -112,5 +137,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

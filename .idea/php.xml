@@ -40,6 +40,10 @@
       <path value="$PROJECT_DIR$/todoList/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/todoList/vendor/psr/log" />
       <path value="$PROJECT_DIR$/todoList/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/todoList/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/todoList/vendor/fig/link-util" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />

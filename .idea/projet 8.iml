@@ -19,12 +19,16 @@
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/orm" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/persistence" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/fig/link-util" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/incenteev/composer-parameter-handler" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/jdorn/sql-formatter" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/paragonie/random_compat" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/link" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/simple-cache" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/distribution-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/framework-extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/generator-bundle" />
