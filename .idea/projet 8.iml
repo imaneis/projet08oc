@@ -4,6 +4,44 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/todoList/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/todoList/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/doctrine-cache-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/incenteev/composer-parameter-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/distribution-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/generator-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensiolabs/security-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-apcu" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/swiftmailer-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/symfony" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/twig/twig" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
