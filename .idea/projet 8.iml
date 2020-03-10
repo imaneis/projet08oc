@@ -23,12 +23,34 @@
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/incenteev/composer-parameter-handler" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/jdorn/sql-formatter" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/myclabs/deep-copy" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/phpunit/phpunit-mock-objects" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/link" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sebastian/version" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/distribution-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/framework-extra-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/sensio/generator-bundle" />
@@ -46,6 +68,7 @@
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/swiftmailer-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/symfony/symfony" />
       <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/todoList/vendor/webmozart/assert" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
