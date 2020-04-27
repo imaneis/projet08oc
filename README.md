@@ -1,12 +1,52 @@
-# Project 8
+# ToDoList
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c863353deb064767bc9977830ed9b9e0)](https://www.codacy.com/manual/imaneis/projet08oc?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=imaneis/projet08oc&amp;utm_campaign=Badge_Grade)
+## About
+
+An application to manage daily tasks.
+Project 8 of the OpenClassrooms "Application Developer - PHP / Symfony" course.
+
+## Requirements
+
++ PHP: ToDoList requires PHP version 7.1 or greater. 
++ MySQL: for the database
++ Composer: to install the dependencies.
+
+## Installation
+
+Give write access to the /var directory
+
+```bash
+chmod 777 -R var
+```
+
+Then
+
+```bash
+composer install
+```
+
+Configure the application by completing the file /app/config/parameters.yml
+
+```bash
+php bin/console doctrine:schema:update --dump-sql
+php bin/console doctrine:schema:update --force
+```
+
+If you want to use a data set
+
+```bash
+php bin/console doctrine:fixtures:load
+```
+
+## Tests
+
+You can start the tests with the following command:
+
+```bash
+./vendor/bin/simple-phpunit --coverage-html web/test-coverage
+```
 
 
-## How to install the project :
+## Author
 
-  - Download the project
-  - Create the database with the command : php bin/console doctrine:database:create
-  - Update all the entries in the database with the command :  php bin/console doctrine:schema:update --force
-  - Run the application with the command : php bin/console server:run
-
+Imane Issany 
