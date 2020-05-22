@@ -1,5 +1,7 @@
 # ToDoList
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1de235eeb1ea44819ac2f2f2b14c36b1)](https://app.codacy.com/manual/imaneis/projet08oc?utm_source=github.com&utm_medium=referral&utm_content=imaneis/projet08oc&utm_campaign=Badge_Grade_Dashboard)
+
 ## About
 
 An application to manage daily tasks.
