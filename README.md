@@ -13,6 +13,8 @@ Project 8 of the OpenClassrooms "Application Developer - PHP / Symfony" course.
 
 ## Installation
 
+Clone project : https://github.com/imaneis/projet08oc.git
+
 Give write access to the /var directory
 
 ```bash
