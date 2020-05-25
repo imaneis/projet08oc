@@ -28,8 +28,8 @@ composer install
 Configure the application by completing the file /app/config/parameters.yml
 
 ```bash
-php bin/console doctrine:schema:update --dump-sql
-php bin/console doctrine:schema:update --force
+php bin/console doctrine:database:create
+php bin/console doctrine:schema:create 
 ```
 
 If you want to use a data set
